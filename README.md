@@ -3,8 +3,6 @@
 
 ## About The Project
 
-*Adapted from the included [report](Report.pdf)*
-
 <p align="justify">
     The task of this project is to find the paths needed to collect all the rubbish within a hexagonal maze and dispose of them in any one of the available disposal rooms placed throughout the maze. However, the rubbish collector is a human, meaning he / she has limits that must not be exceeded or else, the rubbish collector will not be able to move the bin at all. Hence, this project is aimed at solving this difficult predicament of the rubbish collector.
 </p>
@@ -12,8 +10,6 @@
 ---
 
 ## Overview
-
-*Adapted from the included [report](Report.pdf)*
 
 <p align="justify">
     In this project, the rubbish collector will find the paths through the hexagonal maze in order to collect all the necessary rubbish in the rooms and to reach any of the disposal rooms in the situation where the carry capacity has been reached or is close to reaching. The search algorithm used to find the paths is the A* Search algorithm and the navigation as well as the decision-making is handled by the maze solver file.
@@ -37,12 +33,6 @@
 5. Display A* Search algorithm hexagon maze movements 
 6. Provide summarize search algorithm results 
 7. Error exception handling
-
----
-
-## Documentation
-
-For further reading and a better understanding of the project that contains an in-depth write-up, please download and view the included [report](Report.pdf).
 
 ---
 
