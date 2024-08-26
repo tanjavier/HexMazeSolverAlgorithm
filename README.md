@@ -132,7 +132,7 @@ Rubbish 12: (3, 1), Weight: 5, Size: 1
 
 **Graphical Output:**
 
-![image](images\Maze_Visualization.png)
+![image](Hexagonal_Maze_Solver_Algorithm\images\Maze_Visualization.png)
 
 <br>
 
